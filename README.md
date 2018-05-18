@@ -1,6 +1,6 @@
 # Twitter Bot - Java
 
-##Steps
+## Steps
 1. update the `twitter4j.properties` in `src` folder with your own credentials. To get the credentials,
 create a new twitter app from apps.twitter.com
 
@@ -14,5 +14,5 @@ create a new twitter app from apps.twitter.com
 the file first!
 
 
-Credits
+## Credits
 The original project was from https://github.com/nisrulz/twitterbot-java by Nishant Srivastava
